@@ -1,0 +1,3 @@
+stremlit
+deep_translator
+pandas
