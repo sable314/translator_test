@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 
 from deep_translator import GoogleTranslator
 
